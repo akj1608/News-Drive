@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Akronim&display=swap');
+.title{
+    font-size: 80px;
+    font-weight: normal;
+    font-family: 'Akronim', cursive;
+    color: skyblue;
+    text-align: center;
+    margin: 40px;
+    padding: 40px;
+    }
