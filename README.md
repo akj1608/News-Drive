@@ -1,5 +1,5 @@
 # Getting Started with Create React App
-[App link](news-drive.netlify.app)
+[App link](https://news-drive.netlify.app/)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
